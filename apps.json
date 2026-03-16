@@ -13,11 +13,11 @@
       "tintColor": "4A90D9",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0.1",
           "date": "2026-03-16",
-          "localizedDescription": "Erste Version von TrackMaster.",
-          "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.0/TrackMaster.ipa",
-          "size": 12493846,
+          "localizedDescription": "TrackMaster v1.0.1",
+          "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.1/TrackMaster.ipa",
+          "size": 12626211,
           "minOSVersion": "14.0"
         }
       ]
