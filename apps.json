@@ -13,6 +13,14 @@
       "tintColor": "4A90D9",
       "versions": [
         {
+          "version": "1.0.7",
+          "date": "2026-03-16",
+          "localizedDescription": "G-Kraft Feature: Starke Beschleunigungen und Bremsungen werden aufgezeichnet. Vibration entfernt. G-Kraft oder Schräglage wählbar in Einstellungen. G-Kraft-Marker auf Karte.",
+          "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.7/TrackMaster.ipa",
+          "size": 13844228,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "1.0.6",
           "date": "2026-03-16",
           "localizedDescription": "TrackMaster v1.0.6",
