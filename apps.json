@@ -15,9 +15,9 @@
         {
           "version": "1.0.6",
           "date": "2026-03-16",
-          "localizedDescription": "Bug-Fixes: Karten-Tabs, MPH, Vibration, Lesbarkeit, Live-Zentrierung behoben",
+          "localizedDescription": "TrackMaster v1.0.6",
           "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.6/TrackMaster.ipa",
-          "size": 13844228,
+          "size": 13839867,
           "minOSVersion": "14.0"
         }
       ]
