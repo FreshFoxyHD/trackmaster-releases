@@ -1,0 +1,26 @@
+{
+  "name": "TrackMaster",
+  "identifier": "de.mrocrou.trackmaster.source",
+  "sourceURL": "https://raw.githubusercontent.com/FreshFoxyHD/trackmaster-releases/main/apps.json",
+  "apps": [
+    {
+      "name": "TrackMaster",
+      "bundleIdentifier": "de.mrocrou.trackmaster",
+      "developerName": "FreshFoxyHD",
+      "subtitle": "GPS Tracker & Sensor App",
+      "localizedDescription": "TrackMaster zeichnet GPS-Tracks auf und misst Neigung, Geschwindigkeit und mehr.",
+      "iconURL": "https://raw.githubusercontent.com/FreshFoxyHD/trackmaster-releases/main/icon.png",
+      "tintColor": "4A90D9",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-03-16",
+          "localizedDescription": "Erste Version von TrackMaster.",
+          "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.0/TrackMaster.ipa",
+          "size": 12493846,
+          "minOSVersion": "14.0"
+        }
+      ]
+    }
+  ]
+}
