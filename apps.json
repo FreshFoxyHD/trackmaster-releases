@@ -15,17 +15,9 @@
         {
           "version": "1.0.8",
           "date": "2026-03-16",
-          "localizedDescription": "Mapbox Navigation: Volles Turn-by-Turn-Navi mit deutschen Sprachanweisungen, 3D-Kamera, Satellitenansicht und Routenvorschau. G-Kraft-Aufzeichnung verfeinert. Alle Features in Einstellungen konfigurierbar.",
+          "localizedDescription": "TrackMaster v1.0.8",
           "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.8/TrackMaster.ipa",
-          "size": 0,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.7",
-          "date": "2026-03-16",
-          "localizedDescription": "TrackMaster v1.0.7",
-          "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.7/TrackMaster.ipa",
-          "size": 13804272,
+          "size": 32283859,
           "minOSVersion": "14.0"
         }
       ]
