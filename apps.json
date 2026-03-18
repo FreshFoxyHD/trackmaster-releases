@@ -19,14 +19,6 @@
           "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.21/TrackMaster-v1.0.21.ipa",
           "size": 33029721,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.21",
-          "date": "2026-03-17",
-          "localizedDescription": "TrackMaster v1.0.21",
-          "downloadURL": "https://github.com/FreshFoxyHD/trackmaster-releases/releases/download/v1.0.21/TrackMaster.ipa",
-          "size": 32472850,
-          "minOSVersion": "14.0"
         }
       ]
     }
